@@ -28,9 +28,7 @@
         
         
         
-          What is calling conventions # Calling conventions is part of the ABi and aims to define :
-How arguments are passed to a fonction How values are returned from a function Which function cleans the stack (callee or caller) So, calling conventions depends of the OS, processor and language.
-x86 calling conventions # The goal of this post is not to enumerate all x86 calling conventions but to understand what is calling conventions and how it works.
+          Short post about x86 and x86-64 calling conventions.
           
         
         </description>

@@ -28,20 +28,18 @@
         
         
         
-          What is calling conventions # Calling conventions is part of the ABi and aims to define :
-How arguments are passed to a fonction How values are returned from a function Which function cleans the stack (callee or caller) So, calling conventions depends of the OS, processor and language.
-x86 calling conventions # The goal of this post is not to enumerate all x86 calling conventions but to understand what is calling conventions and how it works.
+          Short post about x86 and x86-64 calling conventions.
           
         
         </description>
     </item>
     
     <item>
-      <title>Low Level</title>
-      <link>/pages/low-level/</link>
+      <title>About</title>
+      <link>/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pages/low-level/</guid>
+      <guid>/pages/about/</guid>
       <description>
         
           
@@ -50,47 +48,9 @@ x86 calling conventions # The goal of this post is not to enumerate all x86 call
         
         
         
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Misc</title>
-      <link>/pages/misc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/misc/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>/pages/web/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pages/web/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
+          I started posting on this blog on 01/01/2023 to see my progress.
+My posts will be focused on low level stuff.
+btw, I&amp;rsquo;m bad, if you see any mistakes in a post don&amp;rsquo;t hesitate to send me a dm on Twitter. 
           
         
         </description>
